@@ -1,0 +1,18 @@
+{
+    "name": "yurii/yurii-paratest-bug",
+    "autoload": {
+        "psr-4": {
+            "Yurii\\YuriiParatestBug\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yurii",
+            "email": "126063507+yurii-stickee-2023@users.noreply.github.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "10.5.13",
+        "brianium/paratest": "^7.4"
+    }
+}
